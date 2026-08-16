@@ -6,11 +6,9 @@ This is a personal recreation of [luckydangle.app](https://luckydangle.app) by K
 
 ## Demo
 
-<video src="https://github.com/dusky01/Lucky-dangle/raw/main/media/demo.mp4" controls muted loop poster="https://github.com/dusky01/Lucky-dangle/raw/main/media/poster.png" width="720"></video>
+![Lucky Dangle demo](media/demo.gif)
 
-If the video does not play inline, [click here to watch it](media/demo.mp4).
-
-![Lucky Dangle hanging from the menu bar](media/poster.png)
+Want it in full quality? [Watch the MP4](media/demo.mp4) or [grab the original recording](media/demo.mov).
 
 ## Install (the easy way)
 
